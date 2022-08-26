@@ -1,6 +1,6 @@
-🤚 Hey, I am Denial (ppl call me Frost)ㅤㅤㅤㅤ
-✨ Currently developing roblox games/scriptsㅤㅤㅤ
-💎 My discord server ㅤㅤㅤ
+🤚 Hey, I am Denial (ppl call me Frost)ㅤㅤㅤ
+✨ Currently developing roblox games/scriptsㅤㅤ
+💎 My discord server - https://discord.gg/6ex8fQ5 ( ⚠ its russian ) ㅤㅤ
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
