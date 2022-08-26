@@ -1,4 +1,6 @@
-hi. 😳
+🤚 Hey, I am Denial (ppl call me Frost)ㅤㅤㅤㅤ
+✨ Currently developing roblox games/scriptsㅤㅤㅤ
+💎 My discord server ㅤㅤㅤ
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
