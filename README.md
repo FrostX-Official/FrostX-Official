@@ -1,5 +1,5 @@
 🤚 Hey, I am Denial (ppl call me Frost)ㅤㅤㅤ
-✨ Currently developing roblox games/scriptsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+✨ Currently developing roblox games/scriptsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 💎 My discord server - https://discord.gg/6ex8fQ5 ( ⚠ its russian ) ㅤㅤ
 
 <!--START_SECTION:waka-->
