@@ -2,6 +2,8 @@
 ✨ Currently developing roblox games/scripts  
 💎  My discord server - https://discord.gg/6ex8fQ5 **( ⚠ its russian )**  
 
+⌚ My coding stats -
+
 <!--START_SECTION:waka-->
 
 ```text
