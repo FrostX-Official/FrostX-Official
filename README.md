@@ -5,15 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 28 August 2022
+From: 22 August 2022 - To: 29 August 2022
 
-Total Time: 23 mins
+Total Time: 1 hr 12 mins
 
-Python       22 mins         ███████████████████████▓░   94.04 %
-Lua          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python        22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+Java          21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.54 %
+Other         14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
 ```
 
 <!--END_SECTION:waka-->
