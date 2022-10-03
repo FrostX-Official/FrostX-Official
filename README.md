@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 September 2022 - To: 01 October 2022
+From: 25 September 2022 - To: 02 October 2022
 
-Total Time: 3 hrs 58 mins
+Total Time: 1 hr 42 mins
 
-Python   3 hrs 21 mins   █████████████████████░░░░   84.44 %
-Lua      37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Lua      1 hr 14 mins    ██████████████████▒░░░░░░   73.02 %
+Python   27 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
