@@ -7,12 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-Total Time: 1 hr 14 mins
+Total Time: 37 mins
 
-Lua     1 hr 14 mins    █████████████████████████   99.80 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Lua   37 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
