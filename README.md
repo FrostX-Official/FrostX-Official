@@ -7,7 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 October 2022 - To: 17 October 2022
+
+Total Time: 2 hrs 52 mins
+
+Python      2 hrs 52 mins   █████████████████████████   99.98 %
+Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
