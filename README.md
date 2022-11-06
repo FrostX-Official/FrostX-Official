@@ -7,12 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 October 2022 - To: 04 November 2022
-
-Total Time: 3 hrs 18 mins
-
-Python   2 hrs 44 mins   ████████████████████▓░░░░   82.89 %
-JSON     34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
