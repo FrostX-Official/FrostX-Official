@@ -7,11 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 November 2022 - To: 25 November 2022
+From: 20 November 2022 - To: 27 November 2022
 
-Total Time: 5 mins
+Total Time: 2 hrs 45 mins
 
-Java   5 mins          █████████████████████████   100.00 %
+Python      2 hrs 39 mins   ████████████████████████░   96.25 %
+Java        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
