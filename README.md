@@ -7,14 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
+From: 24 November 2022 - To: 01 December 2022
 
-Total Time: 7 hrs 29 mins
+Total Time: 9 hrs 39 mins
 
-Python       6 hrs 12 mins   ████████████████████▓░░░░   82.79 %
-JavaScript   55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Batchfile    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Python       8 hrs 21 mins   █████████████████████▓░░░   86.52 %
+JavaScript   55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Batchfile    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
