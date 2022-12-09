@@ -7,14 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
-Total Time: 4 hrs 44 mins
+Total Time: 2 hrs 34 mins
 
-Python      4 hrs 43 mins   █████████████████████████   99.56 %
-JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-INI         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python      2 hrs 34 mins   █████████████████████████   99.69 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
