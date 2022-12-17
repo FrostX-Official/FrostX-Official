@@ -7,13 +7,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 December 2022 - To: 15 December 2022
+From: 09 December 2022 - To: 16 December 2022
 
-Total Time: 54 mins
+Total Time: 2 hrs 18 mins
 
-Python      51 mins         ███████████████████████▓░   94.64 %
-JSON        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java                  1 hr 33 mins    █████████████████░░░░░░░░   67.85 %
+JSON                  30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+Groovy                7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Properties            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Mixin Configuration   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+XML                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
