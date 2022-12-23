@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 December 2022 - To: 21 December 2022
+From: 15 December 2022 - To: 22 December 2022
 
-Total Time: 2 hrs 18 mins
+Total Time: 3 hrs 54 mins
 
-Java                  1 hr 33 mins    █████████████████░░░░░░░░   67.86 %
-JSON                  30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
-Groovy                7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Properties            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Mixin Configuration   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-XML                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python                1 hr 34 mins    ██████████░░░░░░░░░░░░░░░   40.46 %
+Java                  1 hr 33 mins    ██████████░░░░░░░░░░░░░░░   39.95 %
+JSON                  32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Groovy                7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Properties            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Mixin Configuration   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
