@@ -9,13 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
+From: 25 December 2022 - To: 01 January 2023
 
-Total Time: 20 hrs 15 mins
+Total Time: 22 hrs 21 mins
 
-Python   19 hrs 50 mins  ████████████████████████▒   97.94 %
-JSON     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python                17 hrs 30 mins  ███████████████████▓░░░░░   78.28 %
+Java                  3 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+JSON                  57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Groovy                10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+CLASS                 6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Mixin Configuration   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
