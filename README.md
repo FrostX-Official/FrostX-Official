@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
-Total Time: 11 hrs 21 mins
+Total Time: 11 hrs 20 mins
 
-Java                  8 hrs 35 mins   ███████████████████░░░░░░   75.62 %
-JSON                  1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Java                  8 hrs 35 mins   ███████████████████░░░░░░   75.67 %
+JSON                  1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
 Groovy                1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
 Properties            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 Gradle                9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
