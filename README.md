@@ -9,15 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
-Total Time: 6 hrs 54 mins
+Total Time: 36 mins
 
-Java         5 hrs 3 mins    ██████████████████▒░░░░░░   73.11 %
-Groovy       49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-JSON         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Properties   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Gradle       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Python   36 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
