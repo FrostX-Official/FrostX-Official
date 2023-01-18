@@ -9,13 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 January 2023 - To: 16 January 2023
-
-Total Time: 2 hrs 15 mins
-
-Lua      2 hrs 9 mins    ████████████████████████░   95.40 %
-Python   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
