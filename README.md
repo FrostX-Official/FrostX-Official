@@ -9,11 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 15 February 2023
+From: 09 February 2023 - To: 16 February 2023
 
-Total Time: 10 mins
+Total Time: 4 hrs 32 mins
 
-Python   10 mins         █████████████████████████   100.00 %
+Lua      4 hrs 22 mins   ████████████████████████░   96.26 %
+Python   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
