@@ -9,12 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 February 2023 - To: 18 February 2023
+From: 12 February 2023 - To: 19 February 2023
 
-Total Time: 4 hrs 32 mins
+Total Time: 7 hrs 5 mins
 
-Lua      4 hrs 22 mins   ████████████████████████░   96.26 %
-Python   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Lua      4 hrs 24 mins   ███████████████▓░░░░░░░░░   62.26 %
+Python   2 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   32.68 %
+JSON     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
