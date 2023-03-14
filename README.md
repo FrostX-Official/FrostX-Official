@@ -1,6 +1,6 @@
 🤚 Hey, I am **Denial** (ppl call me Frost)  
 ✨ Currently developing roblox games/scripts  
-💎  My discord server - https://discord.gg/6ex8fQ5 **( ⚠ its russian )**  
+💎  My discord server - [click](https://dsc.gg/mcdonaldswifi)
 
 <img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=FrostX-Official&show_icons=true&theme=radical">
 
