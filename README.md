@@ -4,7 +4,7 @@
 
 <img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=FrostX-Official&show_icons=true&theme=radical">
 
-⌚ My coding stats -
+⌚ My coding stats (wakatime) -
 
 <!--START_SECTION:waka-->
 
