@@ -20,4 +20,5 @@ No activity tracked
 
 🧥 Profile Visitors *(thanks to everyone)* -  
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FrostX-Official.FrostX-Official)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=FrostX-Official.FrostX-Official)-->
+![views](https://komarev.com/ghpvc/?username=FrostX-Official&color=blueviolet&style=flat-square&label=sussy+viewers)
