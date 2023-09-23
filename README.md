@@ -20,8 +20,5 @@ HTML           1 hr 27 mins    █░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-🧥 Profile Visitors *(thanks to everyone)* -  
-  
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=FrostX-Official.FrostX-Official)-->
-![views](https://komarev.com/ghpvc/?username=FrostX-Official&color=blueviolet&style=for-the-badge&label=sussy+viewers)
+<br>
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31srkkuzzvig3lqyqlakxnoqfz6y&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=7024ff">
