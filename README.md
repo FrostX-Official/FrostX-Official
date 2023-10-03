@@ -8,14 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
-Total Time: 37 hrs 15 mins
+Total Time: 20 hrs 41 mins
 
-Python       36 hrs 38 mins  ████████████████████████▓   98.35 %
-JavaScript   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   20 hrs 41 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
