@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Total Time: 13 hrs 6 mins
+Total Time: 12 hrs 8 mins
 
-HTML         8 hrs 52 mins   █████████████████░░░░░░░░   67.70 %
-Python       3 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.60 %
-JavaScript   1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+HTML         8 hrs 52 mins   ██████████████████▒░░░░░░   73.06 %
+Python       2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+JavaScript   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
