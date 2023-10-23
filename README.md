@@ -8,11 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2023 - To: 20 October 2023
+From: 14 October 2023 - To: 21 October 2023
 
-Total Time: 23 hrs 35 mins
+Total Time: 27 hrs 10 mins
 
-Python      23 hrs 35 mins  █████████████████████████   100.00 %
+Python      27 hrs 10 mins  █████████████████████████   99.97 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
