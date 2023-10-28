@@ -8,12 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2023 - To: 25 October 2023
+From: 19 October 2023 - To: 26 October 2023
 
-Total Time: 25 hrs 2 mins
+Total Time: 25 hrs 51 mins
 
-Python      25 hrs 1 min    █████████████████████████   99.97 %
-JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python      20 hrs 48 mins  ████████████████████░░░░░   80.46 %
+C#          4 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+JSON        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
