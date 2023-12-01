@@ -8,13 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-Total Time: 4 hrs 10 mins
+Total Time: 0 secs
 
-Python      4 hrs 9 mins    █████████████████████████   99.81 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
