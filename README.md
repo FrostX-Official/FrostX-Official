@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Total Time: 7 hrs 11 mins
+Total Time: 4 hrs 7 mins
 
-Python   7 hrs 11 mins   █████████████████████████   99.84 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python   4 hrs 7 mins    █████████████████████████   99.72 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
