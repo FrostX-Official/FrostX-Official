@@ -8,11 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2024 - To: 22 April 2024
+From: 16 April 2024 - To: 23 April 2024
 
-Total Time: 2 mins
+Total Time: 1 hr 25 mins
 
-Python   2 mins          █████████████████████████   100.00 %
+JavaScript   57 mins         ████████████████▓░░░░░░░░   66.45 %
+JSON         18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+CSS          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+HTML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 
 <!--END_SECTION:waka-->
