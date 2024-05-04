@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2024 - To: 30 April 2024
+From: 25 April 2024 - To: 02 May 2024
 
 Total Time: 2 mins
 
