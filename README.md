@@ -8,13 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2024 - To: 02 August 2024
+From: 27 July 2024 - To: 03 August 2024
 
-Total Time: 24 mins
+Total Time: 51 mins
 
-Python       20 mins         ████████████████████▓░░░░   82.88 %
-JavaScript   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python   51 mins         █████████████████████████   99.96 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
