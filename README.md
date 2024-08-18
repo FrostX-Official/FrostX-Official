@@ -1,5 +1,6 @@
-🤚 Hey, I am **Denial** (ppl call me Frost)  
-✨ View info about me: [semi-portfolio](https://frostx.is-a.dev)
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+- 🥽 &nbsp;I’m currently working on [datalose](https://www.roblox.com/games/16971245917) and datalose assistant (discord bot on [pycord](https://github.com/Pycord-Development/pycord))
+- 👨‍💻 &nbsp;[Python](https://python.org)/[Luau](https://luau.org)
 
 <img alt="My repo stats" src="https://github-readme-stats.vercel.app/api?username=FrostX-Official&show_icons=true&theme=radical">
 
@@ -16,5 +17,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-<br>
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31srkkuzzvig3lqyqlakxnoqfz6y&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=7024ff">
