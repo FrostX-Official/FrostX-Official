@@ -9,13 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2024 - To: 11 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Total Time: 56 mins
+Total Time: 52 mins
 
-Python      56 mins         █████████████████████████   99.77 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Luau     30 mins         ██████████████▒░░░░░░░░░░   56.84 %
+JSON     16 mins         ███████▓░░░░░░░░░░░░░░░░░   31.09 %
+Python   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+TOML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Git      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
