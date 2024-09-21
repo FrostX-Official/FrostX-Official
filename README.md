@@ -9,14 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 12 September 2024 - To: 19 September 2024
 
-Total Time: 48 mins
+Total Time: 0 secs
 
-Luau   30 mins         ███████████████▓░░░░░░░░░   62.48 %
-JSON   16 mins         ████████▓░░░░░░░░░░░░░░░░   34.18 %
-TOML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Git    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
