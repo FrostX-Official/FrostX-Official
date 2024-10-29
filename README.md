@@ -9,13 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2024 - To: 26 October 2024
+From: 20 October 2024 - To: 27 October 2024
 
-Total Time: 6 mins
+Total Time: 1 hr 19 mins
 
-Other    11 mins         ████████████████▒░░░░░░░░   64.77 %
-Python   6 mins          ████████▓░░░░░░░░░░░░░░░░   35.16 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Lua      1 hr 5 mins     █████████████████▓░░░░░░░   70.48 %
+Other    12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+JSON     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Python   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
 
 <!--END_SECTION:waka-->
