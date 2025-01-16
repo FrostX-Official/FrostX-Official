@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2025 - To: 13 January 2025
+From: 07 January 2025 - To: 14 January 2025
 
-Total Time: 8 hrs 21 mins
+Total Time: 15 hrs 33 mins
 
-Python            7 hrs 34 mins   ██████████████████████▓░░   90.43 %
-Gettext Catalog   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Batchfile         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Bash              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python            14 hrs 8 mins   ██████████████████████▓░░   90.60 %
+Gettext Catalog   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+TOML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Batchfile         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Git Config        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
