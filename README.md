@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 16 January 2025
+From: 10 January 2025 - To: 17 January 2025
 
-Total Time: 15 hrs 12 mins
+Total Time: 11 hrs 36 mins
 
-Python            13 hrs 38 mins  ██████████████████████▒░░   89.34 %
-Gettext Catalog   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-TOML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Markdown          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Batchfile         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python            9 hrs 53 mins   █████████████████████▒░░░   84.77 %
+Luau              36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+TOML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Markdown          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Batchfile         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
