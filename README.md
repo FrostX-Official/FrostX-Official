@@ -9,14 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2025 - To: 27 January 2025
+From: 21 January 2025 - To: 28 January 2025
 
-Total Time: 18 mins
+Total Time: 8 mins
 
-Markdown   6 mins          █████████░░░░░░░░░░░░░░░░   35.57 %
-Luau       6 mins          ████████▓░░░░░░░░░░░░░░░░   34.52 %
-Python     3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-JSON       2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Python   5 mins          █████████████████▒░░░░░░░   69.18 %
+JSON     2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.82 %
 ```
 
 <!--END_SECTION:waka-->
