@@ -9,11 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2025 - To: 03 April 2025
+From: 28 March 2025 - To: 04 April 2025
 
-Total Time: 0 secs
+Total Time: 31 mins
 
-No activity tracked
+Lua     31 mins         ████████████████████████▒   97.62 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Luau    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
