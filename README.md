@@ -9,13 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-Total Time: 1 hr 54 mins
+Total Time: 1 hr 23 mins
 
-Lua     1 hr 54 mins    ████████████████████████▓   99.23 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Luau    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Lua     1 hr 23 mins    █████████████████████████   99.85 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
