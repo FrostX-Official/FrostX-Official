@@ -6,4 +6,5 @@ https://discord.gg/DVdt97WTwV<br>
 I also don't use GitHub as often as before right now since I don't have time for pet projects anymore. 😔<br>
 (that's why you might see some dead repositories)
 
-👨‍💻 &nbsp;[Python](https://python.org)/[Luau](https://luau.org)
+👨‍💻 &nbsp;[Python](https://python.org)/[Luau](https://luau.org)<br>
+✨ Currently learning: [Rust](https://www.rust-lang.org/), and preparing for college
